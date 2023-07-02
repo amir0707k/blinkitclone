@@ -74,7 +74,7 @@ hr{
 }
 .my-cards{
     display: flex;
-    justify-content: center;
+    justify-content: starts;
     margin-inline: auto;
     width: 73vw;
     overflow-x: auto;
@@ -131,6 +131,7 @@ hr{
     white-space: nowrap;
     width: 73vw;
     margin-inline: auto;
+    margin: 0px 20px;
 }
 footer{
     margin: 20px;
