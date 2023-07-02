@@ -126,14 +126,16 @@ hr{
 }
 .daily{
     margin: 10px 20px 0 10vw;
+    padding-left: 80px;
 }
 .my-product-card{
     white-space: nowrap;
     width: 73vw;
     margin-inline: auto;
-    margin: 0px 20px;
+    margin: 30px 20px;
 }
 footer{
     margin: 20px;
     text-align: center;
+    font-weight: 700;
 }
